@@ -1,0 +1,10 @@
+mnist_train_0.jpg label: 7
+mnist_train_1.jpg label: 3 
+mnist_train_2.jpg label: 4 
+mnist_train_3.jpg label: 6 
+mnist_train_4.jpg label: 1 
+mnist_train_5.jpg label: 8 
+mnist_train_6.jpg label: 1 
+mnist_train_7.jpg label: 0 
+mnist_train_8.jpg label: 9 
+mnist_train_9.jpg label: 8 
